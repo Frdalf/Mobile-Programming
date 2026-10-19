@@ -6,7 +6,7 @@ export default function Index() {
     <View style={styles.container}>
       <View style={styles.card}>
         <Ionicons name="information-circle" size={48} color="#2563eb" />
-        <Text style={styles.title}>Hello World</Text>
+        <Text style={styles.title}>Hello Mai</Text>
 
         <TextInput placeholder="Type here..." style={styles.input} />
 
